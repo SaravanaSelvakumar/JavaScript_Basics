@@ -35,6 +35,7 @@ Serve as a reference for core JS concepts
 Provide small, easy-to-follow examples for practice
 
 📁 Project Structure
+
 JavaScript_Basics/
 │── variables/
 │── data-types/
@@ -44,9 +45,6 @@ JavaScript_Basics/
 │── control-flow/
 │── examples/
 └── README.md
-
-
-(You can adjust this structure as your repo grows.)
 
 🧪 How to Use
 
