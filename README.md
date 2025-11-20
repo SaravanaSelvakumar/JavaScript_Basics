@@ -50,8 +50,7 @@ JavaScript_Basics/
 
 Clone the repository:
 
-git clone https://github.com/your-username/JavaScript_Basics.git
-
+git clone https://github.com/SaravanaSelvakumar/JavaScript_Basics.git
 
 Open the files in any code editor (VS Code recommended).
 
