@@ -2,11 +2,11 @@
 
 A simple repository covering JavaScript fundamentals, including variables, data types, functions, and other core concepts. This project is designed for beginners who want to understand how JavaScript works from the ground up.
 
-🚀 Overview
+#🚀 Overview
 
 This repository contains essential JavaScript concepts explained through clear examples. Each topic is organized to help you build a strong foundation and grow your understanding step-by-step.
 
-📚 Topics Covered
+📚 # **Topics Covered**
 
 Variables (var, let, const)
 
@@ -24,6 +24,7 @@ Basic DOM Manipulation (optional)
 
 Additional core concepts as the repo grows
 
+
 💡 Purpose
 
 This repository is meant to:
@@ -33,18 +34,6 @@ Help beginners learn JavaScript in a simple and structured way
 Serve as a reference for core JS concepts
 
 Provide small, easy-to-follow examples for practice
-
-📁 Project Structure
-
-JavaScript_Basics/
-├── variables/        # Examples and explanations about variables
-├── data-types/       # Different JavaScript data types
-├── functions/        # Function basics and examples
-├── operators/        # Arithmetic, comparison, and logical operators
-├── loops/            # Looping statements (for, while, etc.)
-├── control-flow/     # if/else, switch, and other flow controls
-├── examples/         # Additional practice examples
-└── README.md         # Project documentation
 
 
 🧪 How to Use
