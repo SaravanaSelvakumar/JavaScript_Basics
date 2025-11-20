@@ -37,14 +37,15 @@ Provide small, easy-to-follow examples for practice
 📁 Project Structure
 
 JavaScript_Basics/
-│── variables/
-│── data-types/
-│── functions/
-│── operators/
-│── loops/
-│── control-flow/
-│── examples/
-└── README.md
+├── variables/        # Examples and explanations about variables
+├── data-types/       # Different JavaScript data types
+├── functions/        # Function basics and examples
+├── operators/        # Arithmetic, comparison, and logical operators
+├── loops/            # Looping statements (for, while, etc.)
+├── control-flow/     # if/else, switch, and other flow controls
+├── examples/         # Additional practice examples
+└── README.md         # Project documentation
+
 
 🧪 How to Use
 
